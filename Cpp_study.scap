@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="06DFC693-B80A-4384-952C-D6883BFF1C69" Version="1.1">
+   <Notes>
+      <Note Width="70.8008" FontSize="12" ID="0" Position="321.9,107.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>lock 사용법</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="1" Position="286.7,25.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/v4SVXh" Underline="Yes">32,20</FormatRange>
+         </Formatting>
+         <String>concurrency in action 스터디 자료 3장 http://goo.gl/v4SVXh</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="117.358" FontSize="12" ID="2" Position="246.1,394.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://goo.gl/jlG9Lr" Underline="Yes">10,21</FormatRange>
+         </Formatting>
+         <String>c++11 동영상
+https://goo.gl/jlG9Lr</String>
+         <ConnectedNoteIDs>3, 10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="123.413" FontSize="12" ID="3" Position="238.3,464.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>소스파일이 발표자료</String>
+         <ConnectedNoteIDs>2</ConnectedNoteIDs>
+      </Note>
+      <Note Width="89.27" FontSize="12" ID="4" Position="468.8,140.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>c++ seasoning</String>
+         <ConnectedNoteIDs>5, 7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="129.443" FontSize="12" ID="5" Position="506.2,187.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/QRO5eY" Underline="Yes">12,20</FormatRange>
+         </Formatting>
+         <String>소개한 알고리즘 정리
+http://goo.gl/QRO5eY</String>
+         <ConnectedNoteIDs>4, 6</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="6" Position="496.9,254.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>그림으로도 설명하고, api 설명도 잘되어 있음</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="130.481" FontSize="12" ID="7" Position="607.0,109.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/ykKfBA" Underline="Yes">15,20</FormatRange>
+         </Formatting>
+         <String>stl 정렬 알고리즘 설명
+http://goo.gl/ykKfBA</String>
+         <ConnectedNoteIDs>4, 8-9</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="8" Position="600.0,23.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>예제도 좋고, stl 에 대한 포스팅이 좀 있음.</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="130.481" FontSize="12" ID="9" Position="702.3,174.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/6M7nfj" Underline="Yes">15,20</FormatRange>
+         </Formatting>
+         <String>stl 알고리즘 전반 설명
+http://goo.gl/6M7nfj</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="62.4512" FontSize="12" ID="10" Position="280.5,332.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>c++11, 14</String>
+         <ConnectedNoteIDs>2, 11-13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="118.262" FontSize="12" ID="11" Position="90.6,335.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/03Ecxf" Underline="Yes">16,20</FormatRange>
+         </Formatting>
+         <String>slideshare 발표자료
+http://goo.gl/03Ecxf</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="12" Position="142.2,210.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/F24kN2" Underline="Yes">51,20</FormatRange>
+         </Formatting>
+         <String>An overview of C++14 language features (c++ rocks)
+http://goo.gl/F24kN2</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="116.235" FontSize="12" ID="13" Position="345.3,239.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://goo.gl/gsvIj0" Underline="Yes">20,21</FormatRange>
+         </Formatting>
+         <String>c++14 auto tutorial
+https://goo.gl/gsvIj0</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="14" Position="474.2,450.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://goo.gl/GZKfUW" Underline="Yes">36,21</FormatRange>
+         </Formatting>
+         <String>Understanding Compiler Optimization
+https://goo.gl/GZKfUW</String>
+         <ConnectedNoteIDs>15-16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="41.1255" FontSize="12" ID="15" Position="482.0,394.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.898329 0.817472 0.865339</Fill>
+            <Border Weight="1">0.690303 0.407263 0.550912</Border>
+         </Appearance>
+         <String>LLVM</String>
+         <ConnectedNoteIDs>14, 17, 19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="16" Position="480.5,523.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://goo.gl/F1Z8Bv" Underline="Yes">5,21</FormatRange>
+         </Formatting>
+         <String>슬라이드 https://goo.gl/F1Z8Bv</String>
+         <ConnectedNoteIDs>14</ConnectedNoteIDs>
+      </Note>
+      <Note Width="122.473" FontSize="12" ID="17" Position="609.4,406.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/r11QCA" Underline="Yes">10,20</FormatRange>
+         </Formatting>
+         <String>최적화 관련 강좌
+http://goo.gl/r11QCA</String>
+         <ConnectedNoteIDs>15, 18-19</ConnectedNoteIDs>
+      </Note>
+      <Note Width="118.726" FontSize="12" ID="18" Position="691.4,467.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>SSA 자료 찾다 발견</String>
+         <ConnectedNoteIDs>17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="140.564" FontSize="12" ID="19" Position="610.9,339.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/yfS8Zt" Underline="Yes">24,20</FormatRange>
+         </Formatting>
+         <String>LLVM, in Greater Detail
+http://goo.gl/yfS8Zt</String>
+         <ConnectedNoteIDs>15, 17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="67.5537" FontSize="12" ID="20" Position="980.5,444.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>shared_ptr</String>
+         <ConnectedNoteIDs>21, 25-26, 28</ConnectedNoteIDs>
+      </Note>
+      <Note Width="126.904" FontSize="12" ID="21" Position="962.5,501.6">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://goo.gl/M2lqnu" Underline="Yes">12,21</FormatRange>
+         </Formatting>
+         <String>알려지지 않은 생성자
+https://goo.gl/M2lqnu</String>
+         <ConnectedNoteIDs>20</ConnectedNoteIDs>
+      </Note>
+      <Note Width="77.3438" FontSize="12" ID="22" Position="1030.5,167.2">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.934157 0.888319 0.785290</Fill>
+            <Border Weight="1">0.269490 0.164034 0.186694</Border>
+         </Appearance>
+         <String>type erasure</String>
+         <ConnectedNoteIDs>23-24, 27</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="23" Position="896.1,82.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://goo.gl/8biyih" Underline="Yes">34,21</FormatRange>
+         </Formatting>
+         <String>Type Erasure with Merged Concepts
+https://goo.gl/8biyih</String>
+         <ConnectedNoteIDs>22</ConnectedNoteIDs>
+      </Note>
+      <Note Width="131.262" FontSize="12" ID="24" Position="1131.2,114.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://goo.gl/ZJusFZ" Underline="Yes">24,21</FormatRange>
+         </Formatting>
+         <String>Type erasure - Part III
+https://goo.gl/ZJusFZ</String>
+         <ConnectedNoteIDs>22</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="25" Position="1122.7,398.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/4o8PzU" Underline="Yes">44,20</FormatRange>
+         </Formatting>
+         <String>The Best Designed Library You Shouldn’t Use
+http://goo.gl/4o8PzU</String>
+         <ConnectedNoteIDs>20</ConnectedNoteIDs>
+      </Note>
+      <Note Width="130.579" FontSize="12" ID="26" Position="855.5,357.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="http://goo.gl/LSWEuR" Underline="Yes">18,20</FormatRange>
+         </Formatting>
+         <String>stack overflow 답변
+http://goo.gl/LSWEuR</String>
+         <ConnectedNoteIDs>20, 27</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="27" Position="838.3,275.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>deleter 가 shared_ptr 타입의 일부가 아님 -> 타입 지우개</String>
+         <ConnectedNoteIDs>22, 26</ConnectedNoteIDs>
+      </Note>
+      <Note Width="131.372" FontSize="12" ID="28" Position="1035.9,325.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Link="https://goo.gl/wNUs89" Underline="Yes">19,21</FormatRange>
+         </Formatting>
+         <String>C9 advanced stl 1강
+https://goo.gl/wNUs89</String>
+         <ConnectedNoteIDs>20</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="84EA4F3D-8CBC-44E2-B7CD-796D4F5B12D9" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="ED905C5D-F3E2-41A2-BA27-EF4A91321215" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="B0C2B8EA-A6EC-4B34-A199-E9D94AE11C00" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="682EFE07-266C-4E30-8F0C-3808D7677A2C" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="C71031E3-AD7B-4E9A-9D70-D8F1DAF5630C" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="4DD28BB7-3A1D-4946-B5BB-532374227FF8" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="DF9CC53F-8E76-43BD-8121-25BE79DC7AB9" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="iso-a4" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>
